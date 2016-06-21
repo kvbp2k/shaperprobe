@@ -1,2 +1,3 @@
-# shaperprobe
-Automatically exported from code.google.com/p/shaperprobe
+# ShaperProbe
+
+End-to-end traffic shaping detection and estimation tool.
