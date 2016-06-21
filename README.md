@@ -57,4 +57,4 @@ Output messages:
 - Burst size: ...; Shaping rate: ...: This quantifies the traffic shaping (if any) done by the ISP at the time of measurement. Shaping rate is the rate-limiting rate.
 - All servers are busy or Cannot connect to server. Server may be busy; please try in a few minutes.: For measurement accuracy, our servers currently support only one client at a time. Please retry in a few minutes. Also verify that your firewall has ports TCP 55000 (outgoing), TCP 55005 (outgoing), and UDP 55005 (both directions) open. The tool works fine over a NAT (likely, if you are a home user).
 - Incompatible server. Please download the latest version of DiffProbe client.: It is likely that your platform is not yet supported by ShaperProbe. Please try the version on this page, or if possible, please let us know by sending a mail.
-- 
+
